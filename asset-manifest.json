@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/manishChat/static/css/main.98c49098.css",
+    "main.js": "/manishChat/static/js/main.3d3ef1a0.js",
+    "index.html": "/manishChat/index.html",
+    "main.98c49098.css.map": "/manishChat/static/css/main.98c49098.css.map",
+    "main.3d3ef1a0.js.map": "/manishChat/static/js/main.3d3ef1a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98c49098.css",
+    "static/js/main.3d3ef1a0.js"
+  ]
+}
